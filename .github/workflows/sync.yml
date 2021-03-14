@@ -22,7 +22,7 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: sync lunnlew-AutoSignMachine
+      - name: sync to umtest49
         uses: repo-sync/github-sync@v2
         if: env.PAT
         with:
