@@ -1,4 +1,3 @@
-# AutoSignMachine
-
-> Due to a third-party risk dispute, this script stopped sharing
-> 由于第三方风险争议，此脚本停止分享
+# 请不要fork！！！
+## 需要的使用的请同步到你的库后使用
+### 使用后出现任何问题均与本人无关
